@@ -1,0 +1,9 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+body{
+    background-color: black;
+    color: white;
+    .modal-content{
+        background-color: gray !important;
+    }
+}

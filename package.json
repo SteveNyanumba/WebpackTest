@@ -1,0 +1,25 @@
+{
+  "name": "webpacktest2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "mix",
+    "watch":"mix watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.1",
+    "jquery": "^3.6.0",
+    "laravel-mix": "^6.0.19"
+  },
+  "devDependencies": {
+    "postcss": "^8.1.14",
+    "resolve-url-loader": "^3.1.2",
+    "sass": "^1.32.13",
+    "sass-loader": "^11.0.1"
+  }
+}
